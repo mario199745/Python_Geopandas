@@ -1,5 +1,5 @@
 # GeoPandas
-<h1 align="center"><strong>Analisis de datos en lenguaje R</strong></h1>
+<h1 align="center"><strong>Mapas con Python</strong></h1>
 
 <table align="center">
  <p align="center">
@@ -36,10 +36,7 @@
  ## **Información**
  - Autor : Ministerio de Economía de Brasil 
  - Certificador : Enap
- - Carga horaria : 20 h 
- - Disponibilidad : 20 días
- - Idioma : Portugues
- - Enlace : https://www.escolavirtual.gov.br/curso/325
+
 
 
 
@@ -47,10 +44,10 @@
 ![img](./img/Imagem.png)
 
 ## **Lista de contenido**
- - Modulo 1: Introduccion al analisis de datos  
- - Modulo 2: Fundamentos de lenguaje R 
- - Modulo 3: Introduccion a Machine Learning
- - Modulo 4: Analisis de datos en la practica 
+ - Modulo 1: Introduccion al diseño de mapas en Python 
+ - Modulo 2: Mapa de densidad poblacional 
+ - Modulo 3: Mapa de distribución de especies 
+  
   
 
 ## **Recursos**
@@ -83,7 +80,7 @@
 ## **Software**
 
  
- * <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height=14> **Rstudio**
+ * <img src="https://commons.wikimedia.org/wiki/File:Psf-logo@2x.png" height=14> **Python**
  
 
 ## **Contacto**
