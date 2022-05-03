@@ -88,7 +88,7 @@
 * 🤓 **Mario Caceres** ( <img src="https://raw.githubusercontent.com/ambarja/Buenas-practicas-con-QGIS/main/img/email.png" height=14> <b>Mario.mariocaceresreyna25@gmail.com</b>)
   - [Miembro del Círculo de Investigación en Bosques Secos del Perú**](https://www.facebook.com/CIBOSEC)
 
-## 📚 **References**
+## 📚 **Referencias**
 
 - _David Montero, 2021, ee-pokepalettes,
   <https://github.com/davemlz/ee-pokepalettes>_
