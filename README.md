@@ -41,7 +41,7 @@
 
 
 
-![img](./img/Imagem.png)
+
 
 ## **Lista de contenido**
  - Modulo 1: Introduccion al diseño de mapas en Python 
@@ -80,7 +80,7 @@
 ## **Software**
 
  
- * <img src="https://commons.wikimedia.org/wiki/File:Psf-logo@2x.png" height=14> **Python**
+ * <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height=14> **Python**
  
 
 ## **Contacto**
