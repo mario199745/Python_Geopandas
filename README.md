@@ -53,22 +53,22 @@
 ## **Recursos**
 
 <p>1
-    <a href="https://datavizs21.classes.andrewheiss.com/?fbclid=IwAR1yOXtLY5-9E9s0xzoCK1QoHHow0yGNBMar33_sID2XMEEPNLBY4FUkXB0">Data Visualization</a>.
+    <a href="http://materias.df.uba.ar/lda2021c1/171-2/">Laboratorio de Datos</a>.
 </p>
 <p>2
-    <a href="https://learningstatisticswithr.com/">Learning Statistics with R</a>.
+    <a href="https://geo-python.github.io/site/"> Geo-Python 2019</a>.
 </p>
 <p>3
-    <a href="https://derek-corcoran-barrios.github.io/CursoProgramacion/_book/index.html#descripcion-del-curso">Programación y Análisis de Datos Ambientales MedianteSoftware Libre</a>.
+    <a href="https://github.com/koldLight/curso-python-analisis-datos">Libro Python para análisis de datos</a>.
 </p>
 <p>4
-    <a href="https://datascienceineducation.com/">Data Science in Education Using R</a>.
+    <a href="https://www.notion.so/Python-Summer-Coding-Camp-675b768a94c146e18ce9ae2679df1caf">Python Summer Coding Camp</a>.
 </p>
 <p>5
-    <a href="https://rspatial.org/raster/index.html ">Spatial Data Science with R</a>.
+    <a href="https://github.com/giswqs/earthengine-py-notebooks ">earthengine-py-notebooks</a>.
 </p>
 <p>6
-    <a href="https://www.youtube.com/watch?v=bo2xn6-Y9fc&t=2424s">Hands-On Machine Learning with R</a>.
+    <a href="https://www.youtube.com/c/PepeCantoralPhD/videos">Pepe Cantoral, Ph.D.</a>.
 </p>
 <p>7
     <a href="https://peopleanalytics-regression-book.org">Handbook of Regression Modeling in People Analytics: With Examples in R, Python and Julia</a>.
