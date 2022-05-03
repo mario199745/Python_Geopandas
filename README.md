@@ -34,8 +34,8 @@
 
 
  ## **Información**
- - Autor : Ministerio de Economía de Brasil 
- - Certificador : Enap
+ - Diseña mapas en Python utilizando la librería Geopandas 
+  
 
 
 
@@ -87,3 +87,14 @@
 
 * 🤓 **Mario Caceres** ( <img src="https://raw.githubusercontent.com/ambarja/Buenas-practicas-con-QGIS/main/img/email.png" height=14> <b>Mario.mariocaceresreyna25@gmail.com</b>)
   - [Miembro del Círculo de Investigación en Bosques Secos del Perú**](https://www.facebook.com/CIBOSEC)
+
+##📚 **References**
+
+- _David Montero, 2021, ee-pokepalettes,
+  <https://github.com/davemlz/ee-pokepalettes>_
+
+- _Gennadii Donchyts, Fedor Baart & Justin Braaten
+  ,2020,<https://github.com/gee-community/ee-palettes>_
+
+- _Sergio Ibarra Espinosa, 2017, cptcity,
+  <https://github.com/ibarraespinosa/cptcity>_
