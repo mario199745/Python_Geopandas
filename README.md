@@ -88,7 +88,7 @@
 
 ## **Contacto**
 
-* 🤓 **Mario Caceres** ( <img src="https://raw.githubusercontent.com/ambarja/Buenas-practicas-con-QGIS/main/img/email.png" height=14> <b>Mario.mariocaceresreyna25@gmail.com</b>)
+* 🤓 **Mario Caceres** ( <img src="https://raw.githubusercontent.com/ambarja/Buenas-practicas-con-QGIS/main/img/email.png" height=14> <b>mariocaceresreyna25@gmail.com</b>)
   - [Miembro del Círculo de Investigación en Bosques Secos del Perú](https://www.facebook.com/CIBOSEC)
 
 ## 📚 **Referencias**
