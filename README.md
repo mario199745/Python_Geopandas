@@ -34,13 +34,15 @@
 
 
  ## **Información**
- - Diseña mapas en Python utilizando la librería Geopandas 
+ - Utiliza python para el análisis geoespacial y diseña mapas utilizando la librería Geopandas. 
   
 
+## **Objetivos**
+ - Conocerás los formatos vectoriales que utiliza Geopandas en Python. 
+ - Conocerás las principales aplicaciones de Python para el geoprocesamiento. 
+ - Visualizarás estéticamente los elementos geoespaciales. 
 
-
-
-
+ 
 
 
 ## **Lista de contenido**
@@ -48,7 +50,8 @@
  - Modulo 2: Mapa de densidad poblacional 
  - Modulo 3: Mapa de distribución de especies 
   
-  
+
+
 
 ## **Recursos**
 
